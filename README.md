@@ -31,5 +31,3 @@ Developing for Android utilizes the same command. Just make sure that you have s
 Please **ensure** that when creating PR (Pull Requests), make it named as such: `feature/<feature_name>`, this is to follow standard procedure and is good practice as well. In future if it is extended, we can have diff branch for `hotfix`, `release`, `develop`, `staging` and so on. So, all branch names have specific purpose.
 
 Please also ensure that the branch names are written properly and not sloppily so reviewers can understand the context of the feature
-
-Boilerplate by `Ken Yap Wei Chun` - kyapwc@gmail.com
